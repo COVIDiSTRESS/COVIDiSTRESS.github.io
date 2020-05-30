@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reports 
-permalink: /reports
+permalink: /reports/
 ---
 
 The following reports have been generated so far:
