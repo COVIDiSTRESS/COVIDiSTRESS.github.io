@@ -8,5 +8,5 @@ The COVIDiSTRESS global survey is an international collaborative undertaking for
 
 The pre-registration materials can be found here: [https://osf.io/s32gy](https://osf.io/s32gy)
 
-Data dump are made on a weekly basis and can be found here: [https://osf.io/z39us/files/](https://osf.io/z39us/files/)
+Data dumps were made on a weekly basis between April 1st and May 1st and can be found here: [https://osf.io/z39us/files/](https://osf.io/z39us/files/)
 
